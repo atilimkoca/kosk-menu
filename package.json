@@ -1,0 +1,8 @@
+{
+  "name": "kosk-menu",
+  "version": "1.0.0",
+  "description": "KÖŞK Alsancak - Dijital Menü",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
